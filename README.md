@@ -1,2 +1,6 @@
 # hello-world
-It's the end of the world as I know it.
+
+Hi there!
+
+A Bert is a Bert is a Bert. And that's what I am.
+
